@@ -15,4 +15,4 @@
 - Pandas analysis on Amazon turk ratings
 
 ###### Project
-- Obtained dataset from Kaggle concerning [fraudulent job postings](https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction), and performed data analysis to determine characteristics that most led to fake job postings.
+- Obtained dataset from Kaggle concerning [fraudulent job postings](https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction), and performed exploratory data analysis, logistic regression, tree models, and kNN to determine characteristics that most led to fake job postings.
